@@ -1,0 +1,20 @@
+Country,Age,Salary,PurchasedProduct
+Finland,42,45000,yes
+Finland, 45,39000,yes
+Finland,30,30000,yes
+Finland,34,41000,yes
+Sweden,49,48000,yes
+Sweden,40,38000,yes
+Sweden,30,31000,no
+Sweden,35,35000,no
+Sweden,31,40000,yes
+Sweden,35,37000,no
+Sweden,36,35000,no
+Sweden,36,,no
+Norway,45,46000,yes
+Norway,39,33000,no
+Norway,33,31000,no
+Norway,32,42000,yes
+Norway,37,35000,no
+Norway,34,36000,no
+Norway,,39000,no
